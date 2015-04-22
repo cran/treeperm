@@ -1,0 +1,13 @@
+e1248327febf5ef60d2fe26281700776 *DESCRIPTION
+5961f381673e44b551b155cfb7253d3c *NAMESPACE
+29ffc3a0649c29329c4c14ef4a76e8d0 *R/treeperm.R
+6f7b918857acfcd0c33e4a3bf0ad9306 *man/KPermutation.Rd
+70fe91419c749c328300e77c062e919c *man/Permutation.Rd
+13389fdddcfddd0c6e68a2470b4c257e *man/plot.treeperm.Rd
+fc06beab774c3a615121d5d9646379e8 *man/treeperm-package.Rd
+d2cb7ba6fe16fbd66202ee27c4fd3f6a *man/treeperm.Rd
+80e5c73a093ef0aa2bc1036599654041 *src/KPermutation.c
+d73c4565842ae5bd2e66c1e3cdf91716 *src/PermFunctions.c
+afb4f85c4facbe124c28ef13a1fe6671 *src/Permutation.c
+32145b26708a2472bc2b630f04c57955 *src/Permutation.h
+860f876a1a42c21fde88a7efda203878 *src/Rheaders.h
